@@ -10,16 +10,16 @@ import { doc, getDoc, setDoc } from "firebase/firestore";
 import { db } from "@/lib/firebase";
 
 export const FAMILY_MEMBERS = [
-  "Bilal Qureshi",
+  "Mama",
   "Umar Qureshi",
   "Abdullah Qureshi",
-  "Abir Qureshi",
+  "abeer Qureshi",
   "Ammar Qureshi",
   "Arif Qureshi",
-  "Hoorab",
-  "Amna",
-  "Lareb",
-  "Mama",
+  "Hoorab qureshi",
+  "Amna qureshi",
+  "Lareb qureshi",
+  "Bilal Qureshi",
 ];
 
 interface FamilyMemberSelectorProps {
